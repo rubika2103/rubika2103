@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image Nov 17, 2025, 01_42_42 PM.png" alt="Rubika GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rubika</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | SQL | Python | Machine Learning</h3>
 
